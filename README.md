@@ -1,5 +1,5 @@
 # projectDigiency
-### One page landing .Mobile version of the site . Changing the theme to night.
+### Landing .Mobile version of the site . Changing the theme to night.
 - HTML5
 - CSS3
 - JS
